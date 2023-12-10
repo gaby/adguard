@@ -10,6 +10,8 @@
 
 ```bash
 mkdir -p /opt/adguard
+mkdir -p /opt/adguard/work
+mkdir -p /opt/adguard/conf
 cd /opt/guard
 git clone https://github.com/gaby/adguard
 ```
