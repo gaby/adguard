@@ -238,7 +238,6 @@ user_rules:
   - '||adservice.google.com^$important'
   - '@@||sysdig.com^$important'
   - '@@||www.authelia.com^$important'
-  - '@@||audi.com^$important'
   - '@@||stripe.com^$important'
   - '@@||split.io^$important'
   - '@@||www.googletagmanager.com^$important'
